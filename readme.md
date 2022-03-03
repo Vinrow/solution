@@ -8,6 +8,8 @@ pip install -r requirements.txt
 
 2、修改数据库配置文件
 
+修改dbConfig.json文件
+
 
 
 ### 使用说明
